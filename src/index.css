@@ -1,0 +1,77 @@
+
+table, th, td{
+    border: 1px solid black;
+    font-size: 17px;
+    
+    }
+table{
+    width: 750px;
+    box-shadow: 10px 10px 10px 0px rgba(0, 0, 0, 0.5);
+}
+    th{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    tr:hover{
+        cursor: pointer;
+        background-color: grey;
+        transform: scale(1.1) ;
+        transition: transform 500ms;
+    }
+    td{
+        font-size: 18px;
+    }
+    p{
+        font-size: 25px;
+    }
+    a{
+        font-size: 25px;
+        color: blue;
+    }
+    ol, li{
+        font-size: 20px;
+        color: black;
+    }
+    h1{
+        background-color: cyan;
+        border: 5px solid black;
+        margin: right 20px; 
+        width: 500px;
+        display: flex;
+        justify-content: center;
+        
+    }
+    th{
+        background-color: yellow;
+    }
+    
+    h2{
+        background-color:rgb(43, 138, 98);
+        border: 5px solid rgb(27, 83, 61);
+        width: 250px;
+        color: white;
+    }
+    img{
+        height: 200px ;
+    }
+    #oqueé{
+        background-color:rgb(32, 85, 109);
+        color: white;
+        border-radius: 10px solid gray;
+        width: 200px;
+    
+    }
+    #história2{
+       background-color: rgb(59, 59, 109);
+       color: rgb(97, 165, 42);
+       width: 250px ;
+    }
+    #argentina2{
+        width: 300px;
+        height: 250px;
+    }
+    .userimg{
+        width: 350px;
+        height: 200px;
+    }
+    
+    
