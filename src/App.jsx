@@ -517,6 +517,14 @@ export default function App (){
             <td>1x0 para o City</td>
             <td>Atartuk Olympic Stadium</td>
         </tr>
+
+        <tr>
+            <td>2024</td>
+            <td>Real Madrid</td>
+            <td>Borussia Dortmund</td>
+            <td>2x0 para o Real</td>
+            <td>Wembley Stadium</td>
+        </tr>
     </table>
     <h3>Os Maiores vencedores do torneio:</h3>
     <ol>
